@@ -1,0 +1,2 @@
+D:\DO_AN\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+D:\DO_AN\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
